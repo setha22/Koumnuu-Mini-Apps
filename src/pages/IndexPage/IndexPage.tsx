@@ -9,7 +9,7 @@ export const IndexPage: FC = () => {
       <List>
         <Section
           header="Features"
-          footer="this is koumnuu"
+          footer="this is koumnuuuu testing"
         >
           {/* <Link to="/ton-connect">
             <Cell
